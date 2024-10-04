@@ -32,6 +32,14 @@
 $ npm install
 ```
 
+## Copy .env
+
+```bash
+$ cp .env.copy .env (Linux and macOS)
+or
+copy .env.copy .env (Windows)
+```
+
 ## Running the app
 
 ```bash
